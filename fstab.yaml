@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://da.live/edit#/larrypodluzne/aco-commerce/index
+    type: markup
+
+folders:
+  /products/: /products/default
